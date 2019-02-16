@@ -1,2 +1,3 @@
 # Unmanned-Systems
-Arduino Microcontroller Projects
+Arduino Microcontroller Projects.
+Each of these projects focus on a specific component which is controlled by an Arduino. <i>hello</i>
